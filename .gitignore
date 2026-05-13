@@ -2,3 +2,5 @@ videos/*
 *.txt
 *.json
 *.py
+*.csv
+
