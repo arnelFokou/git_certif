@@ -2,3 +2,4 @@ videos/*
 *.txt
 *.json
 *.py
+.xml
