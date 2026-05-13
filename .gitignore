@@ -1,6 +1,5 @@
 videos/*
 .avro
 *.py
-images/*
 .xml
 *.csv
