@@ -1,6 +1,4 @@
 videos/*
-*.txt
-*.json
 *.py
 .xml
 *.csv
